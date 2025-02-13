@@ -24,6 +24,7 @@
 		"husky:permission": "chmod +x .husky/*"
 	},
 	"dependencies": {
+		"material-icons": "^1.13.14",
 		"next": "^15.1.7",
 		"react": "^19.0.0",
 		"react-dom": "^19.0.0"
@@ -42,6 +43,7 @@
 		"husky": "^9.1.7",
 		"lint-staged": "^15.4.3",
 		"prettier": "^3.5.0",
+		"tailwind-merge": "^3.0.1",
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5"
 	}
